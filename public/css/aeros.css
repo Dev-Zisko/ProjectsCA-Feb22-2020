@@ -1,0 +1,34 @@
+/*!
+ * Los cambios que siguen, buscan solapar los estilos
+ * por defecto de la plantilla utilizada para este proyecto.
+ * Por Jose Salas 02/25/20
+ */
+
+.top-header-aeros {
+    display: block;
+    width: 100%;
+    margin: 0px;
+}
+
+.top-header-aeros li{
+    display: inline;
+    float: left;
+}
+
+.top-header-aeros li a{
+    color: #fff;
+}
+
+.top-header-aeros li a span{
+    padding-left: 0.5em;
+}
+
+.p-aeros{
+    margin: 0px;
+    color:#fff;
+}
+
+.count{
+    text-align: center;
+    font-size: 1.5em;
+}
